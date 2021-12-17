@@ -1,0 +1,4 @@
+#Sun Nov 14 04:30:29 TRT 2021
+base.0=/Users/alidemircan/projects/freelance/uydu/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
